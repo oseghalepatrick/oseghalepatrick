@@ -26,6 +26,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oseghalepatrick&theme=gotham)](https://git.io/streak-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/oseghalepatrick/oseghalepatrick/output/github-contribution-grid-snake.svg)
+<div> <img src="https://github.com/oseghalepatrick/oseghalepatrick/blob/output/github-contribution-grid-snake.svg" /></div>
 
-_generated with [oseghalepatrick/snk](https://github.com/oseghalepatrick/snk)_
+<br/> 
