@@ -25,3 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oseghalepatrick&layout=compact&theme=gotham&hide=html&langs_count=12)](https://github.com/oseghalepatrick/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oseghalepatrick&theme=gotham)](https://git.io/streak-stats)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/oseghalepatrick/oseghalepatrick/output/github-contribution-grid-snake.svg)
+
+_generated with [oseghalepatrick/snk](https://github.com/oseghalepatrick/snk)_
