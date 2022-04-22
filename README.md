@@ -1,5 +1,5 @@
 <h1 align="center">Hello <a href="https://www.linkedin.com/in/ehizokhale-patrick-oseghale-929b5aa0/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></a> </h1> 
-<h3 align="left">Data Scientist | Data Analyst | Power BI Expert | Python Developer | Mathematician</h3>
+<h3 align="left">Data Scientist | Data Engineer & Analyst | Power BI Expert | Python Developer | Mathematician</h3>
 
 ![](https://komarev.com/ghpvc/?username=oseghalepatrick&color=brightgreen&style=flat)
 
